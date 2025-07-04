@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/rish2311">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rish2311&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rish2311&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
