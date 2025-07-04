@@ -25,7 +25,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently building **TaskHub** – a powerful and clean task management app with the MERN stack.
+- 🔭 I’m currently building **TaskHub** – a powerful and clean task management app for enterprises with the MERN stack.
 - 🎯 I've solved 800+ DSA problems and am always pushing for more 📈.
 - 💡 I'm passionate about creating clean, intuitive UIs and optimizing backend logic for peak performance.
 - 🌱 I'm expanding my skills in DevOps with **Docker, CI/CD pipelines, and AWS** to master the full development lifecycle.
