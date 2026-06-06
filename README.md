@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Mehrotra</h1>
-<h3 align="center">🚀 Full Stack Developer | Builder in Public | MERN Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Engineer | Building AI-Powered Products & AI Apps | Backend & Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/hey__rishabh_">
@@ -25,15 +25,33 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently building **TaskHub** – a powerful and clean task management app for enterprises with the MERN stack.
-- 🎯 I've solved 600+ DSA problems and always pushing for more 📈.
-- 💡 I'm passionate about creating clean, intuitive UIs and optimizing backend logic for peak performance.
-- 🌱 I'm expanding my skills in DevOps with **Docker, CI/CD pipelines, and AWS** to master the full development lifecycle.
-- 👯 I’m open to collaborating on innovative **React.js, Node.js, or full-stack projects**.
-- ✍️ I believe in building and learning in public. Check out my blogs and project journey!
-- ⚡ Fun fact: I think clean code is like good music — elegant, expressive, and timeless.
 
+- 🚀 Software Engineer passionate about building scalable products and AI-powered applications.
+- 🏢 Previously interned at Revspot AI, CShare and Now at UpGrad, building production systems, APIs and data-driven applications.
+- 💻 Built production-grade systems, REST APIs and AI-powered applications using React, Next.js, Node.js, PostgreSQL, Docker and AWS.
+- 🤖 Currently exploring RAG pipelines, vector databases, LLM orchestration and AI agents.
+- 📈 Solved 800+ DSA problems and continuously sharpening problem-solving skills.
+- ⚙️ Interested in backend architecture, distributed systems and system design.
+- 🌱 Learning more about cloud infrastructure, observability and production engineering.
+- ✍️ Sharing projects, learnings and engineering insights publicly.
 ---
+
+
+### 🤖 AI Engineering Journey
+
+Currently exploring:
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Embedding Models
+- LangChain
+- Agentic Workflows
+- LLM Evaluation
+- Prompt Engineering
+- AI SaaS Products
+- OpenAI & Gemini APIs based projects
+---
+
 
 ### 🛠️ My Tech Stack
 <p align="center">
@@ -51,6 +69,33 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 SensAI
+AI-powered career assistant that provides:
+- ATS optimization
+- Resume analysis
+- Mock interviews
+- AI-generated feedback
+
+Tech:
+Next.js • Gemini API • PostgreSQL
+
+---
+
+#### 📋 TaskHub
+Enterprise task management platform
+
+Features:
+- Role-based access
+- Team collaboration
+- Analytics dashboard
+- Real-time updates
+
+Tech:
+React • Node.js • MongoDB
 ---
 
 ### ✨ My GitHub Stats
@@ -74,7 +119,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### Github Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -83,6 +128,11 @@
 </p>
 
 ---
+
+### 🌍 Open Source
+
+- Actively contributing to open-source projects
+- Exploring opportunities to contribute to AI and developer tooling ecosystems
 
 ### 🧾 Latest Blog Posts
 ---
@@ -97,4 +147,4 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 🚀 Always learning. Always building. Always shipping. Always Curious!
